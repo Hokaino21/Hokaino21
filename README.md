@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Yudi Hokiana
 
-<!--
-**Hokaino21/Hokaino21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student  
+💻 Interested in Web Development & UI/UX Design  
+🚀 Passionate about building useful and user-friendly digital products  
+☁️ Interested in Cloud Engineering  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- HTML, CSS, JavaScript
+- PHP & Laravel
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Front End Web Development
+- UI/UX Design
+- laravel framework
+- Clude Computing
+
+<!-- ## 📊 GitHub Stats
+Keep learning, keep building, and keep improving. -->
+
+## 🌐 Connect with Me
+- [linkedin](https://www.linkedin.com/in/yudi-hokiana-5788262a1)
+- Portfolio : 
+
+---
+✨ *“Code, Learn, Improve, Repeat.”*
