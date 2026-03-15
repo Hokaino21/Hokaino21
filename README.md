@@ -4,7 +4,9 @@
 ## About Me:
 
 #### 🌐Socials:
-![(https://www.linkedin.com/in/yudi-hokiana-5788262a1)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/yhokiana/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudi-hokiana-5788262a1)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yhokiana/)
 
 <!-- 🎓 Information Systems Student  
 💻 Interested in Web Development & UI/UX Design  
